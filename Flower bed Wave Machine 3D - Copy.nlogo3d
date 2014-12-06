@@ -1,4 +1,3 @@
-;; RRF 141206
 globals [
   membrane-edge-x  ;; horizontal distance from center to edge of membrane
   membrane-edge-y  ;; vertical distance from center to edge of membrane
